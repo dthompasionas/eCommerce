@@ -31,6 +31,7 @@ In order to use this app, npm install when cloning app.
 not taking contributions at the moment.
 
 # Screenshot:
+![](/assets/screenshot.PNG)
 
 # Questions
 Contact me with any questions here:
